@@ -1,0 +1,8 @@
+老数据/Olddataset.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.h5
+
